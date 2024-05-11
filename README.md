@@ -6,11 +6,19 @@
 <h3>Goals & Objectives of the Project</h3>
 <h5>To develop a tyre that will cover most popular sizes in Europe</h5>
   
-
 <h3>Special Features - Design with stone ejectors</h3>
 
 <img src="https://github.com/Oshintha/MPT-793S/assets/155742370/1946953f-d5a9-4265-8193-7cea725a8a01" width="400" height="200">
-
+<h3>Activities Done by myself</h3>
+<h5>Manufacturing Feasibility Study</h5>
+<h5>Product Cost Calculation</h5>
+<h5>Evaluate FEA results</h5>
+<h5>Risk Analysis (DFMEA)</h5>
+<h5>Theoritical calculation and layout design</h5>
+<h5>Prototype making and testing</h5>
+<h5>ISO Documentation</h5>
+<h5>Industrialization</h5>
+<h5>Update master data in SAP</h5>
 <h3>Target Analysis</h3>
 
 ![image](https://github.com/Oshintha/MPT-793S/assets/155742370/58898150-bb34-4803-a11c-79d4b49d2e2f)
