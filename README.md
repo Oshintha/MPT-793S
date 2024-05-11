@@ -10,6 +10,7 @@
 
 <img src="https://github.com/Oshintha/MPT-793S/assets/155742370/1946953f-d5a9-4265-8193-7cea725a8a01" width="400" height="200">
 <h3>Activities Done by myself</h3>
+<h5>Tread Design</h5>
 <h5>Manufacturing Feasibility Study</h5>
 <h5>Product Cost Calculation</h5>
 <h5>Evaluate FEA results</h5>
