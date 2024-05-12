@@ -1,7 +1,8 @@
 # MPT-793S Portfolio
-<img src="https://github.com/Oshintha/MPT-793S/assets/155742370/ea54997f-f6b8-43cc-9457-d2ae77f43d84" width="200" height="200">
-<img src="https://github.com/Oshintha/MPT-793S/assets/155742370/088a0cd3-64b6-4766-b016-dbc4e1bd04bd" width="200" height="200">
-<img src="https://github.com/Oshintha/MPT-793S/assets/155742370/acbe219c-6b26-4768-a8bd-863dbe6ff134" width="200" height="200">
+
+<img src="https://github.com/Oshintha/MPT-793S/assets/155742370/76444ba1-8686-4633-ba01-408249cc88fb" width="150" height="200">
+<img src="https://github.com/Oshintha/MPT-793S/assets/155742370/f1ba7603-5975-4e35-94e7-30ff13871e04" width="200" height="200">
+<img src="https://github.com/Oshintha/MPT-793S/assets/155742370/77cbb861-870d-41bf-886c-3207e79a38c5" width="75" height="200">
 
 <h3>Project Goals & Objectives:</h3>
 <p>The primary aim of the MPT-793S project was to develop a tire capable of covering the most popular sizes in the European market. One of its key special features includes a design integrated with stone ejectors for enhanced performance and durability.</p>
