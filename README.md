@@ -1,4 +1,4 @@
-# MPT-793S Portfolio
+# MPT-793S Project Overview
 
 <img src="https://github.com/Oshintha/MPT-793S/assets/155742370/76444ba1-8686-4633-ba01-408249cc88fb" width="150" height="200">
 <img src="https://github.com/Oshintha/MPT-793S/assets/155742370/f1ba7603-5975-4e35-94e7-30ff13871e04" width="200" height="200">
